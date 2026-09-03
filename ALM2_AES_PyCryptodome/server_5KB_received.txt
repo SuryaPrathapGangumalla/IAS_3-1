@@ -1,0 +1,60 @@
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-server connection for the laboratory exercise.
+AES converts the readable plaintext into ciphertext, while the receiver uses the shared key to recover the original text.
+Every successful transfer can be verified by comparing the original file with the decrypted received file.
+The experiment demonstrates confidentiality, symmetric encryption, padding, and network file transfer.
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-server connection for the laboratory exercise.
+AES converts the readable plaintext into ciphertext, while the receiver uses the shared key to recover the original text.
+Every successful transfer can be verified by comparing the original file with the decrypted received file.
+The experiment demonstrates confidentiality, symmetric encryption, padding, and network file transfer.
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-server connection for the laboratory exercise.
+AES converts the readable plaintext into ciphertext, while the receiver uses the shared key to recover the original text.
+Every successful transfer can be verified by comparing the original file with the decrypted received file.
+The experiment demonstrates confidentiality, symmetric encryption, padding, and network file transfer.
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-server connection for the laboratory exercise.
+AES converts the readable plaintext into ciphertext, while the receiver uses the shared key to recover the original text.
+Every successful transfer can be verified by comparing the original file with the decrypted received file.
+The experiment demonstrates confidentiality, symmetric encryption, padding, and network file transfer.
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-server connection for the laboratory exercise.
+AES converts the readable plaintext into ciphertext, while the receiver uses the shared key to recover the original text.
+Every successful transfer can be verified by comparing the original file with the decrypted received file.
+The experiment demonstrates confidentiality, symmetric encryption, padding, and network file transfer.
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-server connection for the laboratory exercise.
+AES converts the readable plaintext into ciphertext, while the receiver uses the shared key to recover the original text.
+Every successful transfer can be verified by comparing the original file with the decrypted received file.
+The experiment demonstrates confidentiality, symmetric encryption, padding, and network file transfer.
+SERVER TO CLIENT - 5 KB TEXT FILE
+This is a human-readable text file prepared for the ALM2 AES client-server demonstration.
+Topic: AES encrypted server-to-client transfer
+The purpose of this file is to demonstrate encrypted file transfer using AES with PyCryptodome.
+The contents are ordinary readable text before encryption and are recovered after decryption.
+This transfer is performed over a TCP client-serv
